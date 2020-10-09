@@ -1,0 +1,16 @@
+.middle{
+    padding:2em;
+} 
+.restaurant-list img{
+    width:40%;
+}
+.media{
+    padding-bottom:2em;
+}
+.restaurant-list .see-more{
+    color: blue;
+    text-align: center;
+     text-size-adjust: 2em;
+    text-shadow:1.5 1.5 1.5  grey;
+    padding-bottom:2em;
+}
